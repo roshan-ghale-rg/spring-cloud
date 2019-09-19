@@ -1,0 +1,4 @@
+com/ghale/service/guest/Guest.class
+com/ghale/service/guest/GuestRepository.class
+com/ghale/service/guest/GuestController.class
+com/ghale/service/guest/GuestServicesApplication.class
